@@ -1,5 +1,5 @@
   # Seguran-a-da-Informa-o
-Importância de proteger os dados dentro de uma Organização
+Importância de proteger os dados dentro de uma Organização.
 Vivemos na era da informação. Um projeto de segurança da informação é de extrema importância para proteger os dados de uma organização contra acessos não autorizados, uso indevido e divulgação. Os riscos potenciais à segurança são diversos e se originam de diversas fontes: ataques cibernéticos, ataques internos, espionagem industrial e ainda existem as ameaças não intencionais: erros humanos, falhas de software, desastres naturais. As falhas de segurança, também conhecidas como vulnerabilidades, são brechas em sistemas, softwares, redes, processos ou pessoas que podem ser exploradas por agentes mal-intencionados para realizar ataques cibernéticos e causar diversos danos. Compreender os diferentes tipos de falhas de segurança é crucial para implementar medidas de proteção adequadas e reduzir o risco de ataques.
 
 As consequências de um incidente de segurança da informação podem ser devastadoras para uma organização, afetando diversos aspectos do seu negócio e causando danos que podem ser irreparáveis em alguns casos. Perda financeira, danos á reputação, interrupção das operações e roubo de dados confidenciais são alguns exemplos.
